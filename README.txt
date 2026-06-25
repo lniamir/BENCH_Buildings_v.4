@@ -1,8 +1,9 @@
 # BENCH Model (v4.0)
 
 ## Overview
-* **Paper:** Energizing building renovation: Unraveling the dynamic interplay of building stock evolution, individual behaviour, and social norms (Energy Research & Social Science, 2024)
+* **Paper:** [Energizing building renovation: Unraveling the dynamic interplay of building stock evolution, individual behaviour, and social norms](https://doi.org/10.1016/j.erss.2024.103445) (Energy Research & Social Science, 2024)
 * **Authors:** Leila Niamir, Alessio Mastrucci, Bas van Ruijven
+* **Code DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20847255-blue)](https://doi.org/10.5281/zenodo.20847255)
 
 ## Technical Details
 * **Language:** NetLogo 6.x
